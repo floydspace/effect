@@ -1,5 +1,11 @@
 # effect
 
+## 3.0.8
+
+### Patch Changes
+
+- [#2640](https://github.com/Effect-TS/effect/pull/2640) [`661004f`](https://github.com/Effect-TS/effect/commit/661004f4bf5f8b25f5a0678c21a3a822188ce461) Thanks [@patroza](https://github.com/patroza)! - fix: forEach NonEmpty overload causing inference issues for Iterables
+
 ## 3.0.7
 
 ### Patch Changes
